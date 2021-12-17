@@ -9,10 +9,6 @@ import praw
 import numpy as np
 from tensorflow import keras
 from sklearn.preprocessing import LabelEncoder
-
-import colorama 
-colorama.init()
-from colorama import Fore, Style, Back
 import pickle
 # from keep_alive import keep_alive
 numb=0
